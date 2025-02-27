@@ -1,0 +1,2 @@
+SOC=mt7981 BOARD=h3c_magic-nx30-pro_112m ./build.sh
+SOC=mt7981 BOARD=cudy_tr3000 ./build.sh 
